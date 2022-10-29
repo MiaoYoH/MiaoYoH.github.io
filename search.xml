@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>博客与博主</title>
+      <title>Hello Blog</title>
       <link href="/posts/1.html"/>
       <url>/posts/1.html</url>
       
-        <content type="html"><![CDATA[<p>相遇皆是缘分</p><h3 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h3><p>肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有一个自己的博客写一些自己感兴趣的事或物,不是一件很酷的事嘛!</p><h3 id="展望博客"><a href="#展望博客" class="headerlink" title="展望博客"></a>展望博客</h3><p>我会整理一些个人所学的知识（学前端的，也会捣鼓捣鼓一些其它的专业的知识）或生活方面有兴趣的事发到博客上供大家观摩</p><h3 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h3><p>有位可爱的（小）朋友，给我取名叫 “仙气”，这是也是我博客上自居 “仙气” 的由来。喜欢自己所喜欢的，做自己想做的，追求自由与潇洒，多酷啊！ 想法是美好的，可现实… …   给大家推荐一首诗吧</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"> 《自由与爱情》---作者:裴多菲​ 生命诚可贵​ 爱情价更高​ 若为自由故​ 二者皆可抛<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>溜溜球啦！</p>]]></content>
+        <content type="html"><![CDATA[<p>相遇皆是缘分</p><h3 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h3><p>2022.10.27那天晚上看到acm副会搭了个博客，慕强的我当然也想自己搭建一个呀，大一的时候也说以后要自己搭建一个属于自己的博客，然后，就搭建了呗。</p><p>于是我2022.10.28就搭建好了，但是那个主题是hexo默认的landspace主题，我觉得好丑，刚好28号那天晚上副会要开课，要拿我电脑来操作，没想到啊，这货把我的GitHub仓库给删了，我白搞了（白眼</p><p>好就好在，我比较牛逼，我又搭建了一个新的博客。还换了个butterfly主题。当然，这个主题我是搬运Jerry的，目前我还没有自己设计主题的能力，不过我相信以后肯定有这个能力的啦！</p><h3 id="展望博客"><a href="#展望博客" class="headerlink" title="展望博客"></a>展望博客</h3><ol><li>我会整理一些个人所学的知识（目前学java后端开发，也会捣鼓捣鼓一些其他的知识）</li><li>生活方面有兴趣的事发到博客上</li></ol><h3 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h3><p>我来自广东财经大学，是2021级的大学生，现在还年轻，未经历社会毒打，啥都想搞。目前想完善这个博客，接着就通过博客记录我的生活。搭建好博客以后，我打算独立开发一个校园互助的小程序（也不知道能不能实现吧）</p><p>就这样啦！这是原博主送给大家的一首诗。</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"> 《自由与爱情》---作者:裴多菲​ 生命诚可贵​ 爱情价更高​ 若为自由故​ 二者皆可抛<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>祝大家生活愉快！</p>]]></content>
       
       
       <categories>
