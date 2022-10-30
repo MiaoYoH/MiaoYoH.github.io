@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>搭建博客之旅</title>
+      <link href="/posts/2.html"/>
+      <url>/posts/2.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="目前发现的漏洞"><a href="#目前发现的漏洞" class="headerlink" title="目前发现的漏洞"></a>目前发现的漏洞</h2><ol><li>图片更新不了，不知道为什么</li><li>留言功能也还没有实现</li></ol><p>还有其他漏洞等待互联网的广大朋友们发现</p><h2 id="搭建博客的心塞"><a href="#搭建博客的心塞" class="headerlink" title="搭建博客的心塞"></a>搭建博客的心塞</h2><ol><li>重新搭建博客不下5次，因为各种技术原因吧。</li><li>想实现某些功能还是有心无力吧，需要咨询互联网的广大朋友</li></ol><h2 id="想说的话"><a href="#想说的话" class="headerlink" title="想说的话"></a>想说的话</h2><p>​        在网络和现实遇到了很多好朋友都乐于助人，帮助了我怎么搭建博客，还有实现博客的各种功能，不然光凭我一个人还真实现不了。</p><p>​        这里给我的<a href="https://blog.hutian123.com/">广财acm副会大哥</a>做个广告吧，直接点超链接就能跳转到他的博客，有各种教程，人又帅，又高还包教包会喔~</p><p><img src="C:\Users\12394\Desktop\微信截图_20221030204924.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 想法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello Blog</title>
       <link href="/posts/1.html"/>
       <url>/posts/1.html</url>
@@ -13,7 +38,7 @@
       
       <categories>
           
-          <category> 生活 </category>
+          <category> 学习 </category>
           
       </categories>
       
